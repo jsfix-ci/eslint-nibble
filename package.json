@@ -38,7 +38,7 @@
     "eslint-filtered-fix": "^0.3.0",
     "eslint-formatter-friendly": "^7.0.0",
     "eslint-summary": "^1.0.0",
-    "inquirer": "^8.2.3",
+    "inquirer": "^9.1.1",
     "optionator": "^0.9.1"
   },
   "devDependencies": {
